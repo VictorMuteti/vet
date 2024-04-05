@@ -1,0 +1,81 @@
+.tr{
+  background: #daac00 !important;
+}
+
+.fx{
+    position: relative !important;
+    left: 200px !important;
+}
+
+.txl{
+    position: relative !important;
+    right: 200px !important;
+}
+
+.gr{
+    background: #00bec9 !important;
+}
+
+.pds{
+    position: relative;
+    gap: 1rem !important;
+
+}
+
+.btms{
+    position: relative !important;
+    top: 10px !important;
+}
+
+.move{
+    position: relative !important;
+    top: 200px !important;
+}
+
+body{
+    overflow-x: hidden !important;
+}
+
+.iconic{
+    position: absolute !important;
+    bottom: -3500px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 15rem !important;
+    left: 200px !important;
+}
+
+.tr-move{
+    position: relative !important;
+    left: 120px !important;
+    gap: 5rem !important;
+    bottom: 30px !important;
+}
+
+.rt-move{
+    position: relative !important;
+    padding: 20px 100px !important;
+    
+
+}
+
+.btrn{
+    position: relative;
+    left: 165px;
+}
+
+/* @media only screen and (max-width: 767px){
+    .container-fluid{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+@media only screen and (max-width: 528px){
+    .container-fluid{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+@media only screen and (max-width: 360px){
+    .container-fluid{
+        grid-template-columns: repeat(3,1fr);
+    }
+} */
